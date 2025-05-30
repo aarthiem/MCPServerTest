@@ -1,0 +1,12 @@
+{
+        "servers":{
+        "MCPTest": {
+           "type":"stdio",
+           "command": "dotnet",
+           "args": [
+            "run",
+            "--project",
+            "${workspaceFolder}/MCPTest/MCPTest.csproj",]
+        }
+        }
+    }
