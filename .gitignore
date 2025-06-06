@@ -1,0 +1,114 @@
+# .gitignore for C# projects
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Dotnet CLI
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Others
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+*.ncb
+*.sdf
+*.cache
+*.dbmdl
+*.bak
+*.backup
+*.tmp
+*.temp
+*.pidb
+*.svclog
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Rider
+.idea/
+*.sln.iml
+
+# Azure Pipelines
+.azure-pipelines/
+
+# Local history for Visual Studio
+.localhistory/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Rider settings
+.idea/
+*.sln.iml
+
+# DotCover
+*.dotCover
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# Coverlet
+coverage*.json
+coverage*.xml
+coverage*.info
+
+# NUnit
+TestResult.xml
+TestResult-*.xml
+
+# Build directories
+build/
+Build/
+
+# Paket dependency manager
+.paket/
+paket-files/
+
+# FAKE - F# Make
+.fake/
+
+# CodeRush
+.cr/
+
+# Python virtual environments
+.venv/
+venv/
+ENV/
+
+# Node.js
+node_modules/
+
+# Yarn
+.yarn/
+.yarnrc.yml
+
+# End of .gitignore
