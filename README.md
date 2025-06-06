@@ -7,7 +7,7 @@ This repo is for educational purposes to explore how to create your own MCP serv
 [Official MSFT blog](https://devblogs.microsoft.com/blog/microsoft-partners-with-anthropic-to-create-official-c-sdk-for-model-context-protocol) 
 
 ## Steps to build
-This is a simple .NET console application that builds a MCP server with 3 simple methods namely to return echo, reverse, length of the input string. This project is based on the sample explained in (Introduction to the C# SDK for Model Context Protocol (MCP))[https://www.youtube.com/watch?v=krB1aA9xpts]
+This is a simple .NET console application that builds a MCP server with 3 simple methods namely to return echo, reverse, length of the input string. This project is based on the sample explained in [Introduction to the C# SDK for Model Context Protocol (MCP)](https://www.youtube.com/watch?v=krB1aA9xpts)
 
 To build MCP server using c# SDK, follow the below steps
 - Create a .NET console application
